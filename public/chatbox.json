@@ -1,0 +1,34 @@
+[
+    {
+      "name" : "john",
+      "profilepicture" : "john.jpg"
+    },
+    {
+      "name" : "alex",
+      "profilepicture" : "alex.jpg"
+    },
+    {
+      "name" : "Teena",
+      "profilepicture" : "Teena.jpg"
+    },
+    {
+      "name" : "sri",
+      "profilepicture" : "sri.jpg"
+    },
+    {
+        "name" : "Peter",
+        "profilepicture" : "peter.jpg"
+      },
+      {
+        "name" : "V",
+        "profilepicture" : "v.jpg"
+      },
+      {
+        "name" : "Mary",
+        "profilepicture" : "mary.jpg"
+      },
+      {
+        "name" : "srija",
+        "profilepicture" : "srija.jpg"
+      }
+]
