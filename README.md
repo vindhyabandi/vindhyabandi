@@ -40,15 +40,15 @@ you initially installed. You will have to run this every time you want to use My
 'root'@'localhost' IDENTIFIED BY ‘yournewpassword'
 Include .gitignore file in your project as well.
 # ERD
-![]
+![ERD]()
 
 # Screenshots
 
 Registration page
-![](
+![REgister]()
 Login Page
-![](
+![LOgin]()
 Products Page
-![](
+![Products]()
 # Developer
 Sri Vindhya
